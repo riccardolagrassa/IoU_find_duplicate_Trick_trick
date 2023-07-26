@@ -1,5 +1,5 @@
 '''
-IoU_find_duplicate_Tricky_tricky
+IoU_find_duplicate_Trick_trick
 Copyright (C) 26/07/23 Riccardo La Grassa
 
 This program is free software: you can redistribute it and/or modify
